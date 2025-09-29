@@ -24,7 +24,4 @@ GitHub: github.com/AbhiDhautre
 
 He/Him
 
-⚡ Fun Fact
-
-I love solving coding challenges and exploring new technologies in my free time!
 
