@@ -2,7 +2,7 @@
 
 👀 Interests
 
-I'm passionate about technology, software development, and building innovative solutions. I enjoy working on projects related to web development, AI/ML, and app development.
+I'm passionate about technology, software development, and building innovative solutions. I enjoy working on projects related to web development, and app development.
 
 🌱 Currently Learning
 
