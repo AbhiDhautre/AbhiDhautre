@@ -1,14 +1,9 @@
 👋 Hi, I’m Abhishek Dhautre
 
-👀 Interests
 
 I'm passionate about technology, software development, and building innovative solutions. I enjoy working on projects related to web development, and app development.
 
-🌱 Currently Learning
-
 I'm currently improving my skills in full-stack development, data structures & algorithms, and cloud computing.
-
-💞️ Looking to Collaborate On
 
 I'm open to collaborating on open-source projects, hackathons, and startup ideas related to tech. If you have an exciting project, let's connect!
 
@@ -19,9 +14,5 @@ Email: abhidhautre@gmail.com
 LinkedIn: linkedin.com/in/abhidhautre
 
 GitHub: github.com/AbhiDhautre
-
-😄 Pronouns
-
-He/Him
 
 
